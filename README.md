@@ -1,4 +1,4 @@
-# Kickstart_analysis
+# Kickstarter_analysis
 Module 1 Challenge
 
 
