@@ -7,6 +7,7 @@ Module 1 Challenge
 Presents a cohesive written analysis that draws three reasonable conclusions from the data and states limitations of the dataset and suggestions for additional tables or graphs.
 
 Conclusions:
+
 •	The volume of Plays with goals larger than 25,000 is small, so it is difficult to tell if the percentage is a reliable indicator. The percentages also vary significantly with large swings
 
 •	Aside from the above the data shows that plays with goals under $5000 have a reasonable chance of success at just under 75%
